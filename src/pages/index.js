@@ -12,7 +12,7 @@ export default function Home() {
       <main>
         <Header />
         <p style={{ textAlign: 'center', marginTop: '2rem' }}>
-          Hoş geldiniz! Kategorinizi seçin:
+          KATAGORİLER
         </p>
         <CategoryGrid />
       </main>

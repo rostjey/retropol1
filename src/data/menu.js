@@ -1,29 +1,32 @@
-// src/data/menu.js
-
 const menu = [
     {
-      category: "Yemekler",
+      category: "yemekler",
       items: [
-        { name: "Kıymalı Lahmacun", price: 40 },
-        { name: "Kaşarlı Lahmacun", price: 45 },
-        { name: "Kıymalı Pide", price: 60 },
-        { name: "Kuşbaşılı Pide", price: 70 },
-        { name: "Kaşarlı Pide", price: 65 }
+        { name: "Adana Kebap", price: 80 },
+        { name: "Urfa Kebap", price: 75 },
+        { name: "Tavuk Şiş", price: 70 }
       ]
     },
     {
-      category: "Nargileler",
+      category: "tatlilar",
       items: [
-        { name: "freshnar", price: 60 },
-        { name: "blackrock", price: 70 },
-        { name: "Elfakir", price: 65 }
+        { name: "Künefe", price: 50 },
+        { name: "Baklava", price: 60 }
       ]
     },
     {
-      category: "İçecekler",
+      category: "icecekler",
       items: [
         { name: "Ayran", price: 15 },
-        { name: "Kola", price: 20 }
+        { name: "Kola", price: 20 },
+        { name: "Çay", price: 10 }
+      ]
+    },
+    {
+      category: "nargileler",
+      items: [
+        { name: "Elma Nargile", price: 100 },
+        { name: "Karpuz Nargile", price: 110 }
       ]
     }
   ];

@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Antebevi Menü</title>
+        <title>Retropol Menü</title>
         <meta name="description" content="Antebevi Cafe Menü Sayfası" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>

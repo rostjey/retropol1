@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Antebevi QR Menü</title>
+        <title>Retropol QR Menü</title>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
       <main>

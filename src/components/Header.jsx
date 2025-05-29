@@ -3,7 +3,7 @@ import React from 'react';
 const Header = () => {
   return (
     <header style={styles.header}>
-      <h1 style={styles.title}>Antebevi QR Menü</h1>
+      <h1 style={styles.title}>Retropol QR Menü</h1>
     </header>
   );
 };

@@ -5,7 +5,7 @@ const categories = [
   { title: 'Yemekler', slug: 'yemekler', image: '/vercel.svg' },
   { title: 'Tatlılar', slug: 'tatlilar', image: '/next.svg' },
   { title: 'İçecekler', slug: 'icecekler', image: '/globe.svg' },
-  { title: 'Nargileler', slug: 'nargileler', image: '/window.svg' },
+  { title: 'Nargileler', slug: 'nargileler', image: '/images/f995-dark-side-intro-hookah-0-1-1600x1600.jpg' },
 ];
 
 const CategoryGrid = () => {

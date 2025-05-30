@@ -1,26 +1,26 @@
-import React from 'react';
-
 const Header = () => {
   return (
     <header style={styles.header}>
-      <h1 style={styles.title}>Retropol QR Menü</h1>
+      <img src="/images/WhatsApp Image 2025-05-31 at 01.57.09.jpeg" alt="Retropol Logo" style={styles.logo} />
     </header>
   );
 };
 
 const styles = {
   header: {
-    backgroundColor: '#8b0000',
-    color: '#fff',
-    padding: '1.5rem',
-    textAlign: 'center',
-    fontFamily: 'sans-serif',
-    boxShadow: '0 2px 8px rgba(0,0,0,0.1)',
-  },
-  title: {
-    fontSize: '2rem',
+    width: '100vw',
     margin: 0,
+    padding: 0,
+    display: 'flex',
+    justifyContent: 'center',
+    alignItems: 'center',
+    backgroundColor: 'transparent',
+  },
+  logo: {
+    width: '100%',
+    maxWidth: '200px',
+    height: 'auto',
+    objectFit: 'contain',
   },
 };
-
 export default Header;

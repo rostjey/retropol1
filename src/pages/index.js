@@ -28,7 +28,7 @@ export default function Home() {
           opacity: 0.4,
         }}
       >
-        <source src="/videos/WhatsApp Video 2025-05-31 at 01.18.53.mp4" type="video/mp4" />
+        <source src="videos/202505310209.mp4" type="video/mp4" />
         Tarayıcınız video etiketini desteklemiyor.
       </video>
 
